@@ -3,7 +3,6 @@ Web-API for [1secmail.com](https://1secmail.com) which is an disposable email se
 
 ## Example
 ```bash
-source 1secmail.sh
-
+source ./1secmail.sh
 generate_email 1
 ```
